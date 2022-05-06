@@ -1,0 +1,9 @@
+# key_pair
+id_rsa_tf
+id_rsa_tf.pub
+
+# Terraform
+.terraform/**
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
